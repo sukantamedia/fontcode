@@ -1,0 +1,13 @@
+@font-face {
+    font-family:'Ananda Namaste';
+    src: url('Ananda Namaste.eot');
+    src: url('Ananda Namaste.eot?#iefix') format('embedded-opentype'),
+         url('Ananda Namaste.woff2') format('woff2'),
+         url('Ananda Namaste.woff') format('woff'),
+         url('Ananda Namaste.ttf') format('truetype'),
+         url('Ananda Namaste.svg#Ananda Namasteregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    line-height: 2.0;
+}
